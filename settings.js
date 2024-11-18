@@ -22,9 +22,9 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = 'ᴠᴀᴊɪʀᴀ ʀᴀᴛʜɴᴀʏᴀᴋᴀ';
-global.owner = ['94702782946','94702782946'];
-global.premium = ['94702782946','94702782946'];
+global.ownername = 'dontaye';
+global.owner = ['16582148118','16582148118'];
+global.premium = ['16582148118','16582148118'];
 global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
 global.author = '🐼 ＣＹＢＥＲ-ＰＡＮＤＡ-ＭＤ 🐼';
 global.caption = '🐼 𝐂𝐘𝐁𝐄𝐑--𝐏𝐀𝐍𝐃𝚫--𝚩𝚯𝚻𝐖𝚫 🐼';
@@ -44,8 +44,8 @@ global.mess = {
     wait: '*Processing Your request*',
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 };
-global.link = 'https://youtube.com/@gamingewingyt6216?si=IHmBhi2R69ao6jcG'
-global.linkGroup = 'https://chat.whatsapp.com/JNAASTo0fMo3N4luk8arve'  
+global.link = 'https://example.com'
+global.linkGroup = 'https://example.com'  
 global.logo = process.env.LOGO || "https://telegra.ph/file/bb92c9c4e66b6b6045feb.jpg",        
 global.ANTI_BOT = process.env.ANTI_BOT || "false",        
 global.typemenu = 'v1' // 'v1' => 'v5'
